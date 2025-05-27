@@ -1,7 +1,6 @@
 ## Hello
-I don't know what I should put here.  
-I want to be a game dev.  
-I use VSCode to program.  
+I want to be a game dev.
+I use VSCode to program.
 [![R-vl's GitHub stats](https://github-readme-stats.vercel.app/api?username=r-vanlangeveld&show_icons=true&theme=radical)](https://github.com/r-vanlangeveld/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=r-vanlangeveld&layout=donut&theme=radical)](https://github.com/r-vanlangeveld/github-readme-stats)
 
