@@ -16,8 +16,10 @@ Hello, My name is Ryndee van Langeveld. I'm currently a student at BYU-I.
 
 
 <!--
-[![R-vl's GitHub stats](https://github-readme-stats.vercel.app/api?username=r-vanlangeveld&show_icons=true&theme=radical)](https://github.com/r-vanlangeveld/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=r-vanlangeveld&layout=donut&theme=radical)](https://github.com/r-vanlangeveld/github-readme-stats)
+## My Stats
+[![R-vanLangeveld's GitHub stats](https://github-readme-stats.vercel.app/api?username=R-vanLangeveld)](https://github.com/R-vanLangeveld)
+[![R-vl's GitHub stats](https://github-readme-stats.vercel.app/api?username=r-vanlangeveld&show_icons=true&theme=radical)]([https://github.com/r-vanlangeveld/github-readme-stats](https://github.com/anuraghazra/github-readme-stats))
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=r-vanlangeveld&layout=donut&theme=radical)]([https://github.com/r-vanlangeveld/github-readme-stats](https://github.com/anuraghazra/github-readme-stats))
 -->
 
 <!-- I like cats ᓚᘏᗢ -->
